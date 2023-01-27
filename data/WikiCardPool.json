@@ -120,5 +120,40 @@
     "dependsFormat": 1,
     "dependsCurrentTier": 0,
     "additionalPoolDbfIds": []
+  },
+  {
+    "id": 4,
+    "mockupName": "Build-An-Undead Eternal Summoner Pool 2 exclusions",
+    "generatorDbfIds": [
+      80121
+    ],
+    "costMore": -1,
+    "costLess": -1,
+    "costEqual": -1,
+    "attackMore": -1,
+    "attackLess": -1,
+    "attackEqual": -1,
+    "classId": 0,
+    "cardTypeId": 0,
+    "raceId": 0,
+    "schoolId": 0,
+    "rarityId": 0,
+    "keywordTagId": 0,
+    "tagId": 0,
+    "tagValue": -1,
+    "isForGenerating": 0,
+    "isCostVaried": 0,
+    "dependsTarget": 0,
+    "dependsCurrentClass": 0,
+    "requiresAnotherClass": 0,
+    "dependsFormat": 0,
+    "dependsCurrentTier": 1,
+    "additionalPoolDbfIds": [
+      99527,
+      95246,
+      98867,
+      99577,
+      99524
+    ]
   }
 ]
