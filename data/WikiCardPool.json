@@ -2,6 +2,8 @@
   {
     "id": 1,
     "mockupName": "Build-An-Undead Pool 1",
+    "sectionName": "Pool 1",
+    "description": "",
     "generatorDbfIds": [
       97814
     ],
@@ -50,6 +52,8 @@
   {
     "id": 2,
     "mockupName": "Build-An-Undead Pool 2",
+    "sectionName": "Pool 2",
+    "description": "",
     "generatorDbfIds": [
       97814
     ],
@@ -95,6 +99,8 @@
   {
     "id": 3,
     "mockupName": "Jackpot! Cards",
+    "sectionName": "",
+    "description": "",
     "generatorDbfIds": [
       80121
     ],
@@ -124,6 +130,8 @@
   {
     "id": 4,
     "mockupName": "Build-An-Undead Eternal Summoner Pool 2 exclusions",
+    "sectionName": "Eternal Summoner's exclusions",
+    "description": "If you choose Eternal Summoner from Pool 1, you will never be offered these cards in Pool 2.",
     "generatorDbfIds": [
       80121
     ],

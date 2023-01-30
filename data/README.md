@@ -5,6 +5,8 @@ This file contains data for Hearthstone card pools (any kind of pool, from pools
 | ---- | ---- | ---- |
 | id | Number | Wiki identifier, served as primary key |
 | mockupName | String | Wiki's internal string to describe the usage of the pool |
+| sectionName | String | Official pool name, displayed on Wiki articles |
+| description | String | Pool description, displayed on Wiki articles |
 | generatorDbfIds | Array of Number | List of dbfIds of cards that use this pool to do something (usually generate cards) |
 | costMore | Number | Filters cards that cost <value> or more. -1 if it has no such condition |
 | costLess | Number | Filters cards that cost <value> or less. -1 if it has no such condition |
