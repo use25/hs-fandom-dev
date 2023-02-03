@@ -3,7 +3,7 @@
     "id": 1,
     "mockupName": "Build-An-Undead Pool 1",
     "sectionName": "Pool 1",
-    "description": "",
+    "description": null,
     "generatorDbfIds": [
       97814
     ],
@@ -54,7 +54,7 @@
     "id": 2,
     "mockupName": "Build-An-Undead Pool 2",
     "sectionName": "Pool 2",
-    "description": "",
+    "description": null,
     "generatorDbfIds": [
       97814
     ],
@@ -66,7 +66,7 @@
     "attackLess": -1,
     "attackEqual": -1,
     "classId": 0,
-    "cardTypeId": 0, 
+    "cardTypeId": 0,
     "raceId": 0,
     "schoolId": 0,
     "rarityId": 0,
@@ -93,7 +93,7 @@
       99161,
       99121,
       99527,
-      95451,
+      98867,
       95253,
       57498
     ]
@@ -101,8 +101,8 @@
   {
     "id": 3,
     "mockupName": "Jackpot! Cards",
-    "sectionName": "",
-    "description": "",
+    "sectionName": null,
+    "description": null,
     "generatorDbfIds": [
       80121
     ],
@@ -114,7 +114,7 @@
     "attackLess": -1,
     "attackEqual": -1,
     "classId": 0,
-    "cardTypeId": 5, 
+    "cardTypeId": 5,
     "raceId": 0,
     "schoolId": 0,
     "rarityId": 0,
@@ -128,7 +128,9 @@
     "requiresAnotherClass": 1,
     "dependsFormat": 1,
     "dependsCurrentTier": 0,
-    "additionalPoolDbfIds": []
+    "additionalPoolDbfIds": [
+      ""
+    ]
   },
   {
     "id": 4,
@@ -136,7 +138,7 @@
     "sectionName": "Eternal Summoner's exclusions",
     "description": "If you choose Eternal Summoner from Pool 1, you will never be offered these cards in Pool 2.",
     "generatorDbfIds": [
-      80121
+      97814
     ],
     "gameMode": 3,
     "costMore": -1,
