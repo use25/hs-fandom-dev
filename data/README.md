@@ -8,6 +8,7 @@ This file contains data for Hearthstone card pools (any kind of pool, from pools
 | sectionName | String | Official pool name, displayed on Wiki articles |
 | description | String | Pool description, displayed on Wiki articles |
 | generatorDbfIds | Array of Number | List of dbfIds of cards that use this pool to do something (usually generate cards) |
+| gameMode | Integer | 0: Invalid, 1: Constructed / Traditional, 2: Arena, 3: Battlegrounds, 4: Duels, 5: Mercenaries |
 | costMore | Number | Filters cards that cost <value> or more. -1 if it has no such condition |
 | costLess | Number | Filters cards that cost <value> or less. -1 if it has no such condition |
 | costEqual | Number | Filters cards that cost <value>. -1 if it has no such condition |
