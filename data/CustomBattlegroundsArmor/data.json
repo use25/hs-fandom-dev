@@ -1,0 +1,37 @@
+[
+  {
+    "tier": 1,
+    "minArmor": 0,
+    "maxArmor": 0
+  },
+  {
+    "tier": 2,
+    "minArmor": 2,
+    "maxArmor": 5
+  },
+  {
+    "tier": 3,
+    "minArmor": 3,
+    "maxArmor": 6
+  },
+  {
+    "tier": 4,
+    "minArmor": 4,
+    "maxArmor": 7
+  },
+  {
+    "tier": 5,
+    "minArmor": 5,
+    "maxArmor": 8
+  },
+  {
+    "tier": 6,
+    "minArmor": 6,
+    "maxArmor": 9
+  },
+  {
+    "tier": 7,
+    "minArmor": 7,
+    "maxArmor": 10
+  }
+]

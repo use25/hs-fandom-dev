@@ -1,0 +1,1351 @@
+[
+  {
+    "id": 1,
+    "renderName": "Classic Pack",
+    "image": "Legacy_-_Card_pack.png",
+    "types": [
+      "Card set",
+      "Available with gold"
+    ],
+    "setsId": [
+      3
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 9,
+    "renderName": "Goblins vs Gnomes Pack",
+    "image": "Goblins_vs_Gnomes_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      13
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 10,
+    "renderName": "The Grand Tournament Pack",
+    "image": "The_Grand_Tournament_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      15
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 11,
+    "renderName": "Whispers of the Old Gods Pack",
+    "image": "Whispers_of_the_Old_Gods_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      21
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 19,
+    "renderName": "Mean Streets of Gadgetzan Pack",
+    "image": "Mean_Streets_of_Gadgetzan_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      25
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 20,
+    "renderName": "Journey to Un'Goro Pack",
+    "image": "Journey_to_Un'Goro_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      27
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 21,
+    "renderName": "Knights of the Frozen Throne Pack",
+    "image": "Knights_of_the_Frozen_Throne_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1001
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 23,
+    "renderName": "Golden Classic Pack",
+    "image": "Legacy_-_Golden_pack.png",
+    "types": [
+      "Card set",
+      " Golden"
+    ],
+    "setsId": [
+      3
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": 1,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 30,
+    "renderName": "Kobolds &amp; Catacombs Pack",
+    "image": "Kobolds_and_Catacombs_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1004
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 31,
+    "renderName": "The Witchwood Pack",
+    "image": "The_Witchwood_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1125
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 38,
+    "renderName": "The Boomsday Project Pack",
+    "image": "The_Boomsday_Project_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1127
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 40,
+    "renderName": "Rastakhan's Rumble Pack",
+    "image": "Rastakhan's_Rumble_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1129
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 49,
+    "renderName": "Rise of Shadows Pack",
+    "image": "Rise_of_Shadows_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1130
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 128,
+    "renderName": "Saviors of Uldum Pack",
+    "image": "Saviors_of_Uldum_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1158
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 347,
+    "renderName": "Descent of Dragons Pack",
+    "image": "Descent_of_Dragons_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1347
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 423,
+    "renderName": "Ashes of Outland Pack",
+    "image": "Ashes_of_Outland_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1414
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 468,
+    "renderName": "Scholomance Academy Pack",
+    "image": "Scholomance_Academy_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1443
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 470,
+    "renderName": "Hunter Pack",
+    "image": "Hunter_-_Card_pack.png",
+    "types": [
+      "Class"
+    ],
+    "setsId": [
+      1525,
+      1578,
+      1626,
+      1658,
+      1691,
+      1776
+    ],
+    "classesId": [
+      3
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 498,
+    "renderName": "Year of the Dragon Pack",
+    "image": "Year_of_the_Dragon_-_Card_pack.png",
+    "types": [
+      "Year"
+    ],
+    "setsId": [
+      1130,
+      1158,
+      1347
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 545,
+    "renderName": "Mage Pack",
+    "image": "Mage_-_Card_pack.png",
+    "types": [
+      "Class"
+    ],
+    "setsId": [
+      1525,
+      1578,
+      1626,
+      1658,
+      1691,
+      1776
+    ],
+    "classesId": [
+      4
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 553,
+    "renderName": "Forged in the Barrens Pack",
+    "image": "Forged_in_the_Barrens_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1525
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 602,
+    "renderName": "United in Stormwind Pack",
+    "image": "United_in_Stormwind_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1578
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 603,
+    "renderName": "Golden Scholomance Academy Pack",
+    "image": "Scholomance_Academy_-_Golden_pack.png",
+    "types": [
+      "Card set",
+      " Golden"
+    ],
+    "setsId": [
+      1443
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": 1,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 616,
+    "renderName": "Madness at the Darkmoon Faire Pack",
+    "image": "Madness_at_the_Darkmoon_Faire_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1466
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 629,
+    "renderName": "Mercenaries Pack",
+    "image": "Mercenaries_-_Card_pack.png",
+    "types": [
+      "Special",
+      " Available with gold"
+    ],
+    "setsId": [
+      1586
+    ],
+    "classesId": [
+      ""
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": 1
+  },
+  {
+    "id": 631,
+    "renderName": "Druid Pack",
+    "image": "Druid_-_Card_pack.png",
+    "types": [
+      "Class"
+    ],
+    "setsId": [
+      1525,
+      1578,
+      1626,
+      1658,
+      1691,
+      1776
+    ],
+    "classesId": [
+      2
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 632,
+    "renderName": "Paladin Pack",
+    "image": "Paladin_-_Card_pack.png",
+    "types": [
+      "Class"
+    ],
+    "setsId": [
+      1525,
+      1578,
+      1626,
+      1658,
+      1691,
+      1776
+    ],
+    "classesId": [
+      5
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 633,
+    "renderName": "Warrior Pack",
+    "image": "Warrior_-_Card_pack.png",
+    "types": [
+      "Class"
+    ],
+    "setsId": [
+      1525,
+      1578,
+      1626,
+      1658,
+      1691,
+      1776
+    ],
+    "classesId": [
+      10
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 634,
+    "renderName": "Priest Pack",
+    "image": "Priest_-_Card_pack.png",
+    "types": [
+      "Class"
+    ],
+    "setsId": [
+      1525,
+      1578,
+      1626,
+      1658,
+      1691,
+      1776
+    ],
+    "classesId": [
+      6
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 635,
+    "renderName": "Rogue Pack",
+    "image": "Rogue_-_Card_pack.png",
+    "types": [
+      "Class"
+    ],
+    "setsId": [
+      1525,
+      1578,
+      1626,
+      1658,
+      1691,
+      1776
+    ],
+    "classesId": [
+      7
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 636,
+    "renderName": "Shaman Pack",
+    "image": "Shaman_-_Card_pack.png",
+    "types": [
+      "Class"
+    ],
+    "setsId": [
+      1525,
+      1578,
+      1626,
+      1658,
+      1691,
+      1776
+    ],
+    "classesId": [
+      8
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 637,
+    "renderName": "Warlock Pack",
+    "image": "Warlock_-_Card_pack.png",
+    "types": [
+      "Class"
+    ],
+    "setsId": [
+      1525,
+      1578,
+      1626,
+      1658,
+      1691,
+      1776
+    ],
+    "classesId": [
+      9
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 638,
+    "renderName": "Demon Hunter Pack",
+    "image": "Demon_Hunter_-_Card_pack.png",
+    "types": [
+      "Class"
+    ],
+    "setsId": [
+      1525,
+      1578,
+      1626,
+      1658,
+      1691,
+      1776
+    ],
+    "classesId": [
+      14
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 643,
+    "renderName": "Golden Madness at the Darkmoon Faire Pack",
+    "image": "Madness_at_the_Darkmoon_Faire_-_Golden_pack.png",
+    "types": [
+      "Card set",
+      " Golden"
+    ],
+    "setsId": [
+      1466
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": 1,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 665,
+    "renderName": "Fractured in Alterac Valley Pack",
+    "image": "Fractured_in_Alterac_Valley_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1626
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 686,
+    "renderName": "Golden Forged in the Barrens Pack",
+    "image": "Forged_in_the_Barrens_-_Golden_pack.png",
+    "types": [
+      "Card set",
+      " Golden"
+    ],
+    "setsId": [
+      1525
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": 1,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 688,
+    "renderName": "Year of the Phoenix Pack",
+    "image": "Year_of_the_Phoenix_-_Card_pack.png",
+    "types": [
+      "Year"
+    ],
+    "setsId": [
+      1414,
+      1443,
+      1466
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 694,
+    "renderName": "Voyage to the Sunken City Pack",
+    "image": "Voyage_to_the_Sunken_City_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1658
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": 1
+  },
+  {
+    "id": 713,
+    "renderName": "Standard Pack",
+    "image": "Standard_-_Card_pack.png",
+    "types": [
+      "Available with gold"
+    ],
+    "setsId": [
+      1525,
+      1578,
+      1626,
+      1658,
+      1691,
+      1776
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 714,
+    "renderName": "Wild Pack",
+    "image": "Wild_-_Card_pack.png",
+    "types": [
+      "Available with gold"
+    ],
+    "setsId": [
+      3,
+      1635,
+      13,
+      15,
+      21,
+      25,
+      27,
+      1001,
+      1004,
+      1125,
+      1127,
+      1129,
+      1130,
+      1158,
+      1347,
+      1414,
+      1443,
+      1466
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 716,
+    "renderName": "Golden Standard Pack",
+    "image": "Standard_-_Golden_pack.png",
+    "types": [
+      "Golden"
+    ],
+    "setsId": [
+      1525,
+      1578,
+      1626,
+      1658,
+      1691,
+      1776
+    ],
+    "classesId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": 1,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 729,
+    "renderName": "Murder at Castle Nathria",
+    "image": "Murder_at_Castle_Nathria_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1691
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": 1
+  },
+  {
+    "id": 737,
+    "renderName": "Golden United in Stormwind Pack",
+    "image": "United_in_Stormwind_-_Golden_pack.png",
+    "types": [
+      "Golden"
+    ],
+    "setsId": [
+      1578
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": 1,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 821,
+    "renderName": "March of the Lich King",
+    "image": "March_of_the_Lich_King_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1776
+    ],
+    "classesId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": 1
+  },
+  {
+    "id": 841,
+    "renderName": "Golden Fractured in Alterac Valley Pack",
+    "image": "Fractured_in_Alterac_Valley_-_Golden_pack.png",
+    "types": [
+      "Golden"
+    ],
+    "setsId": [
+      1626
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": 1,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 850,
+    "renderName": "Golden Voyage to the Sunken City Pack",
+    "image": "Voyage_to_the_Sunken_City_-_Golden_pack.png",
+    "types": [
+      "Golden"
+    ],
+    "setsId": [
+      1658
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": 1,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 874,
+    "renderName": "Golden Murder at Castle Nathria",
+    "image": "Murder_at_Castle_Nathria_-_Golden_pack.png",
+    "types": [
+      "Golden"
+    ],
+    "setsId": [
+      1691
+    ],
+    "classesId": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": 1,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 904,
+    "renderName": "Golden Wild",
+    "image": "Wild_-_Golden_pack.png",
+    "types": [
+      "Available with gold"
+    ],
+    "setsId": [
+      3,
+      1635,
+      13,
+      15,
+      21,
+      25,
+      27,
+      1001,
+      1004,
+      1125,
+      1127,
+      1129,
+      1130,
+      1158,
+      1347,
+      1414,
+      1443,
+      1466
+    ],
+    "classesId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": 1,
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 918,
+    "renderName": "Death Knight Pack",
+    "image": "Death_Knight_-_Card_pack.png",
+    "types": [
+      "Class"
+    ],
+    "setsId": [
+      1525,
+      1578,
+      1626,
+      1658,
+      1691,
+      1776
+    ],
+    "classesId": [
+      1
+    ],
+    "allGolden": null,
+    "pityTimer": null,
+    "firstLeg": null
+  },
+  {
+    "id": 921,
+    "renderName": "Signature Golden March of the Lich King",
+    "image": "March_of_the_Lich_King_-_Golden_pack.png",
+    "types": [
+      "Golden"
+    ],
+    "setsId": [
+      1776
+    ],
+    "classesId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": 1,
+    "pityTimer": null,
+    "firstLeg": null
+  }
+]

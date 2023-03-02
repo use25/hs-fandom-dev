@@ -1,0 +1,37 @@
+[
+  {
+    "factionId": 1,
+    "name": "Alliance",
+    "mercsPage": "Mercenaries/Alliance"
+  },
+  {
+    "factionId": 2,
+    "name": "Horde",
+    "mercsPage": "Mercenaries/Horde"
+  },
+  {
+    "factionId": 3,
+    "name": "Empire",
+    "mercsPage": "Mercenaries/Empire"
+  },
+  {
+    "factionId": 4,
+    "name": "Explorer",
+    "mercsPage": "Mercenaries/Explorer"
+  },
+  {
+    "factionId": 5,
+    "name": "Legion",
+    "mercsPage": "Mercenaries/Legion"
+  },
+  {
+    "factionId": 6,
+    "name": "Pirate",
+    "mercsPage": "Mercenaries/Pirate"
+  },
+  {
+    "factionId": 7,
+    "name": "Scourge",
+    "mercsPage": "Mercenaries/Scourge"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "abilityName": "Prismatic Bolt",
+    "transformedFromAbilityId": 945
+  },
+  {
+    "id": 2,
+    "abilityName": "Archmage Nova",
+    "transformedFromAbilityId": 946
+  },
+  {
+    "id": 3,
+    "abilityName": "Triune Supremacy",
+    "transformedFromAbilityId": 947
+  },
+  {
+    "id": 4,
+    "abilityName": "Moonlight Strike",
+    "transformedFromAbilityId": 952
+  },
+  {
+    "id": 5,
+    "abilityName": "Ankle Breaker",
+    "transformedFromAbilityId": 953
+  },
+  {
+    "id": 6,
+    "abilityName": "Beautiful Beast",
+    "transformedFromAbilityId": 954
+  },
+  {
+    "id": 7,
+    "abilityName": "Fel Reign",
+    "transformedFromAbilityId": 693
+  },
+  {
+    "id": 8,
+    "abilityName": "Reshape",
+    "transformedFromAbilityId": 693
+  }
+]

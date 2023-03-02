@@ -48,6 +48,9 @@
       99203,
       95265,
       95263
+    ],
+    "isFromThePast": [
+      ""
     ]
   },
   {
@@ -96,6 +99,9 @@
       98867,
       95253,
       57498
+    ],
+    "isFromThePast": [
+      ""
     ]
   },
   {
@@ -129,6 +135,9 @@
     "dependsFormat": 1,
     "dependsCurrentTier": 0,
     "additionalPoolDbfIds": [
+      ""
+    ],
+    "isFromThePast": [
       ""
     ]
   },
@@ -168,6 +177,9 @@
       98867,
       99577,
       99524
+    ],
+    "isFromThePast": [
+      ""
     ]
   }
 ]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Archmage Khadgar",
+    "cardId": 93453,
+    "transformedFromMercenaryId": 409,
+    "abilityIds": [
+      ""
+    ],
+    "wikiAbilityIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Worgen Form",
+    "cardId": 94128,
+    "transformedFromMercenaryId": 411,
+    "abilityIds": [
+      ""
+    ],
+    "wikiAbilityIds": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dragon Form",
+    "cardId": 82332,
+    "transformedFromMercenaryId": 252,
+    "abilityIds": [
+      700,
+      701
+    ],
+    "wikiAbilityIds": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dragon Form",
+    "cardId": 86088,
+    "transformedFromMercenaryId": 155,
+    "abilityIds": [
+      760,
+      761
+    ],
+    "wikiAbilityIds": [
+      8
+    ]
+  }
+]

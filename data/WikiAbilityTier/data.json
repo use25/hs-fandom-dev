@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "wikiAbilityId": 1,
+    "cardId": 94350,
+    "maxTier": null,
+    "tier": 1,
+    "transformedFromCardDbfId": 94368
+  },
+  {
+    "id": 2,
+    "wikiAbilityId": 1,
+    "cardId": 94349,
+    "maxTier": null,
+    "tier": 2,
+    "transformedFromCardDbfId": 94367
+  },
+  {
+    "id": 3,
+    "wikiAbilityId": 1,
+    "cardId": 94348,
+    "maxTier": null,
+    "tier": 3,
+    "transformedFromCardDbfId": 94366
+  },
+  {
+    "id": 4,
+    "wikiAbilityId": 1,
+    "cardId": 94347,
+    "maxTier": null,
+    "tier": 4,
+    "transformedFromCardDbfId": 94365
+  },
+  {
+    "id": 5,
+    "wikiAbilityId": 1,
+    "cardId": 93406,
+    "maxTier": 1,
+    "tier": 5,
+    "transformedFromCardDbfId": 93454
+  },
+  {
+    "id": 6,
+    "wikiAbilityId": 2,
+    "cardId": 94346,
+    "maxTier": null,
+    "tier": 1,
+    "transformedFromCardDbfId": 94360
+  },
+  {
+    "id": 7,
+    "wikiAbilityId": 2,
+    "cardId": 94345,
+    "maxTier": null,
+    "tier": 2,
+    "transformedFromCardDbfId": 94359
+  },
+  {
+    "id": 8,
+    "wikiAbilityId": 2,
+    "cardId": 94344,
+    "maxTier": null,
+    "tier": 3,
+    "transformedFromCardDbfId": 94358
+  },
+  {
+    "id": 9,
+    "wikiAbilityId": 2,
+    "cardId": 94343,
+    "maxTier": null,
+    "tier": 4,
+    "transformedFromCardDbfId": 94357
+  },
+  {
+    "id": 10,
+    "wikiAbilityId": 2,
+    "cardId": 93407,
+    "maxTier": 1,
+    "tier": 5,
+    "transformedFromCardDbfId": 93457
+  },
+  {
+    "id": 11,
+    "wikiAbilityId": 3,
+    "cardId": 94339,
+    "maxTier": null,
+    "tier": 1,
+    "transformedFromCardDbfId": 94339
+  },
+  {
+    "id": 12,
+    "wikiAbilityId": 3,
+    "cardId": 94338,
+    "maxTier": null,
+    "tier": 2,
+    "transformedFromCardDbfId": 94338
+  },
+  {
+    "id": 13,
+    "wikiAbilityId": 3,
+    "cardId": 94337,
+    "maxTier": null,
+    "tier": 3,
+    "transformedFromCardDbfId": 94337
+  },
+  {
+    "id": 14,
+    "wikiAbilityId": 3,
+    "cardId": 94336,
+    "maxTier": null,
+    "tier": 4,
+    "transformedFromCardDbfId": 94336
+  },
+  {
+    "id": 15,
+    "wikiAbilityId": 3,
+    "cardId": 93459,
+    "maxTier": 1,
+    "tier": 5,
+    "transformedFromCardDbfId": 93459
+  },
+  {
+    "id": 16,
+    "wikiAbilityId": 4,
+    "cardId": 94561,
+    "maxTier": null,
+    "tier": 1,
+    "transformedFromCardDbfId": 94565
+  },
+  {
+    "id": 17,
+    "wikiAbilityId": 4,
+    "cardId": 94560,
+    "maxTier": null,
+    "tier": 2,
+    "transformedFromCardDbfId": 94564
+  },
+  {
+    "id": 18,
+    "wikiAbilityId": 4,
+    "cardId": 94559,
+    "maxTier": null,
+    "tier": 3,
+    "transformedFromCardDbfId": 94563
+  },
+  {
+    "id": 19,
+    "wikiAbilityId": 4,
+    "cardId": 94558,
+    "maxTier": null,
+    "tier": 4,
+    "transformedFromCardDbfId": 94562
+  },
+  {
+    "id": 20,
+    "wikiAbilityId": 4,
+    "cardId": 94129,
+    "maxTier": 1,
+    "tier": 5,
+    "transformedFromCardDbfId": 94138
+  },
+  {
+    "id": 21,
+    "wikiAbilityId": 5,
+    "cardId": 94573,
+    "maxTier": null,
+    "tier": 1,
+    "transformedFromCardDbfId": 94569
+  },
+  {
+    "id": 22,
+    "wikiAbilityId": 5,
+    "cardId": 94572,
+    "maxTier": null,
+    "tier": 2,
+    "transformedFromCardDbfId": 94568
+  },
+  {
+    "id": 23,
+    "wikiAbilityId": 5,
+    "cardId": 94571,
+    "maxTier": null,
+    "tier": 3,
+    "transformedFromCardDbfId": 94567
+  },
+  {
+    "id": 24,
+    "wikiAbilityId": 5,
+    "cardId": 94570,
+    "maxTier": null,
+    "tier": 4,
+    "transformedFromCardDbfId": 94566
+  },
+  {
+    "id": 25,
+    "wikiAbilityId": 5,
+    "cardId": 94147,
+    "maxTier": 1,
+    "tier": 5,
+    "transformedFromCardDbfId": 94145
+  },
+  {
+    "id": 26,
+    "wikiAbilityId": 6,
+    "cardId": 96895,
+    "maxTier": null,
+    "tier": 1,
+    "transformedFromCardDbfId": 96887
+  },
+  {
+    "id": 27,
+    "wikiAbilityId": 6,
+    "cardId": 96894,
+    "maxTier": null,
+    "tier": 2,
+    "transformedFromCardDbfId": 96886
+  },
+  {
+    "id": 28,
+    "wikiAbilityId": 6,
+    "cardId": 96893,
+    "maxTier": null,
+    "tier": 3,
+    "transformedFromCardDbfId": 96885
+  },
+  {
+    "id": 29,
+    "wikiAbilityId": 6,
+    "cardId": 96892,
+    "maxTier": null,
+    "tier": 4,
+    "transformedFromCardDbfId": 96884
+  },
+  {
+    "id": 30,
+    "wikiAbilityId": 6,
+    "cardId": 94155,
+    "maxTier": 1,
+    "tier": 5,
+    "transformedFromCardDbfId": 94151
+  },
+  {
+    "id": 31,
+    "wikiAbilityId": 7,
+    "cardId": 82334,
+    "maxTier": null,
+    "tier": 1,
+    "transformedFromCardDbfId": 82333
+  },
+  {
+    "id": 32,
+    "wikiAbilityId": 7,
+    "cardId": 82382,
+    "maxTier": null,
+    "tier": 2,
+    "transformedFromCardDbfId": 82386
+  },
+  {
+    "id": 33,
+    "wikiAbilityId": 7,
+    "cardId": 82383,
+    "maxTier": null,
+    "tier": 3,
+    "transformedFromCardDbfId": 82387
+  },
+  {
+    "id": 34,
+    "wikiAbilityId": 7,
+    "cardId": 82384,
+    "maxTier": null,
+    "tier": 4,
+    "transformedFromCardDbfId": 82388
+  },
+  {
+    "id": 35,
+    "wikiAbilityId": 7,
+    "cardId": 82385,
+    "maxTier": 1,
+    "tier": 5,
+    "transformedFromCardDbfId": 82389
+  },
+  {
+    "id": 36,
+    "wikiAbilityId": 8,
+    "cardId": 86091,
+    "maxTier": null,
+    "tier": 1,
+    "transformedFromCardDbfId": 84203
+  },
+  {
+    "id": 37,
+    "wikiAbilityId": 8,
+    "cardId": 86095,
+    "maxTier": null,
+    "tier": 2,
+    "transformedFromCardDbfId": 84268
+  },
+  {
+    "id": 38,
+    "wikiAbilityId": 8,
+    "cardId": 86096,
+    "maxTier": null,
+    "tier": 3,
+    "transformedFromCardDbfId": 84269
+  },
+  {
+    "id": 39,
+    "wikiAbilityId": 8,
+    "cardId": 86097,
+    "maxTier": null,
+    "tier": 4,
+    "transformedFromCardDbfId": 84270
+  },
+  {
+    "id": 40,
+    "wikiAbilityId": 8,
+    "cardId": 86098,
+    "maxTier": 1,
+    "tier": 5,
+    "transformedFromCardDbfId": 84271
+  }
+]
