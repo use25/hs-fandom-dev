@@ -19,15 +19,17 @@ Pools of cards for generation
 |raceId|Integer|Filters cards with minion type id VALUE. 0 if it has no such condition
 |schoolId|Integer|Filters cards with spell school id VALUE. 0 if it has no such condition
 |rarityId|Integer|Filters cards with rarity id VALUE. 0 if it has no such condition
+|bg_isGolden|Integer|1 if it only generates golden cards in Battlegrounds, 0 otherwise
 |keywordTagId|Integer|Filters cards that have tag id VALUE considered keywords. 0 if it has no such condition
 |tagId|Integer|Filters cards that have tag id VALUE. 0 if it has no such condition
 |tagValue|Integer|Filters cards that have tag id VALUE, with its value equal to a certain amount. -1 if there is no need to specify the value for tagId
 |isForGenerating|Integer|1 if it is for generating, 0 otherwise
 |isCostVaried|Integer|1 if it has Cost condition, but it is not fixed (like Nethrandamus), 0 otherwise
+|isFromThePast|Integer|1 if it only generates Wild-only cards, 0 otherwise
 |dependsTarget|Integer|1 if it depends on target to filter cards (like Amalgam of the Deep), 0 otherwise
 |dependsCurrentClass|Integer|1 if it depends on your hero's class (mostly for Discover cards), 0 otherwise
 |requiresAnotherClass|Integer|1 if it chooses cards from class different to your hero's (mostly for Rogue cards), 0 otherwise
 |dependsFormat|Integer|1 if the pool varies between Constructed formats, 0 otherwise
-|dependsCurrentTier|Integer|1 if it depends on your Battlegrounds Tavern Tier, 0 otherwise
+|bg_dependsCurrentTier|Integer|1 if it depends on your Battlegrounds Tavern Tier, 0 otherwise
 |additionalPoolDbfIds|Array of Integer|List of dbfIds hard-defined by Wiki. Cards with these dbfIds will always be available in this pool no matter how the conditions are factored
-|isFromThePast|Array of Integer|1 if it only generates Wild-only cards, 0 otherwise
+|bannedPoolDbfIds|Array of Integer|List of dbfIds hard-defined by Wiki. Cards with these dbfIds will not be available in this pool no matter how the conditions are factored
