@@ -5,7 +5,9 @@
     "sectionName": "Pool 1",
     "description": null,
     "generatorDbfIds": [
-      97814
+      97814,
+      101442,
+      101443
     ],
     "gameMode": 3,
     "costMore": -1,
@@ -59,7 +61,9 @@
     "sectionName": "Pool 2",
     "description": null,
     "generatorDbfIds": [
-      97814
+      97814,
+      101442,
+      101443
     ],
     "gameMode": 3,
     "costMore": -1,
@@ -145,7 +149,9 @@
     "sectionName": "Eternal Summoner's exclusions",
     "description": "If you choose Eternal Summoner from Pool 1, you will never be offered these cards in Pool 2.",
     "generatorDbfIds": [
-      97814
+      97814,
+      101442,
+      101443
     ],
     "gameMode": 3,
     "costMore": -1,
@@ -206,7 +212,7 @@
     "keywordTagId": 0,
     "tagId": 2154,
     "tagValue": 1,
-    "isForGenerating": 0,
+    "isForGenerating": 1,
     "isCostVaried": 0,
     "isFromThePast": 0,
     "dependsTarget": 0,
