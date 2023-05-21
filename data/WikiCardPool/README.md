@@ -27,10 +27,15 @@ Pools of cards for generation
 |isFromThePast|Integer|1 to filter Wild-only cards, 0 otherwise
 |isForGenerating|Integer|1 if it is for generating, 0 otherwise
 |isCostVaried|Integer|1 if it has Cost condition, but it is not fixed (like Nethrandamus), 0 otherwise
+|isFromThePast|Integer|1 if it only generates Wild-only cards, 0 otherwise
 |dependsTarget|Integer|1 if it depends on target to filter cards (like Amalgam of the Deep), 0 otherwise
 |dependsCurrentClass|Integer|1 if it depends on your hero's class (mostly for Discover cards), 0 otherwise
 |requiresAnotherClass|Integer|1 if it chooses cards from class different to your hero's or played card's (mostly for Rogue cards), 0 otherwise
 |dependsFormat|Integer|1 if the pool varies between Constructed formats, 0 otherwise
 |bg_dependsCurrentTier|Integer|1 if it depends on your Battlegrounds Tavern Tier, 0 otherwise
 |additionalPoolDbfIds|Array of Integer|List of dbfIds hard-defined by Wiki. Cards with these dbfIds will always be available in this pool no matter how the conditions are factored
+<<<<<<< HEAD
 |wikiBanPoolIds|Array of Integer|List of WikiBanPool ids hard-defined by Wiki. This pool will consider these ban pools to exclude the mentioned cards from its pool
+=======
+|bannedPoolDbfIds|Array of Integer|List of dbfIds hard-defined by Wiki. Cards with these dbfIds will not be available in this pool no matter how the conditions are factored
+>>>>>>> 34d6c8f8c1af8109fa8605f3f833a1996e32fb83

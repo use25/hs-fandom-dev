@@ -22,16 +22,22 @@
     "raceId": 0,
     "schoolId": 0,
     "rarityId": 0,
+    "bg_isGolden": 0,
     "keywordTagId": 0,
     "tagId": 0,
     "tagValue": -1,
     "isFromThePast": 0,
     "isForGenerating": 1,
     "isCostVaried": 0,
+    "isFromThePast": 0,
     "dependsTarget": 0,
     "dependsCurrentClass": 0,
     "requiresAnotherClass": 0,
     "dependsFormat": 0,
+<<<<<<< HEAD
+=======
+    "bg_dependsCurrentTier": 1,
+>>>>>>> 34d6c8f8c1af8109fa8605f3f833a1996e32fb83
     "additionalPoolDbfIds": [
       99117,
       99120,
@@ -52,11 +58,15 @@
       95265,
       95263
     ],
+<<<<<<< HEAD
     "wikiBanPoolIds": [
       9
     ],
     "bg_isGolden": 0,
     "bg_dependsCurrentTier": 1
+=======
+    "bannedPoolDbfIds": []
+>>>>>>> 34d6c8f8c1af8109fa8605f3f833a1996e32fb83
   },
   {
     "id": 2,
@@ -81,16 +91,22 @@
     "raceId": 0,
     "schoolId": 0,
     "rarityId": 0,
+    "bg_isGolden": 0,
     "keywordTagId": 0,
     "tagId": 0,
     "tagValue": -1,
     "isFromThePast": 0,
     "isForGenerating": 1,
     "isCostVaried": 0,
+    "isFromThePast": 0,
     "dependsTarget": 0,
     "dependsCurrentClass": 0,
     "requiresAnotherClass": 0,
     "dependsFormat": 0,
+<<<<<<< HEAD
+=======
+    "bg_dependsCurrentTier": 1,
+>>>>>>> 34d6c8f8c1af8109fa8605f3f833a1996e32fb83
     "additionalPoolDbfIds": [
       99576,
       95246,
@@ -109,11 +125,15 @@
       102938,
       103579
     ],
+<<<<<<< HEAD
     "wikiBanPoolIds": [
       8
     ],
     "bg_isGolden": 0,
     "bg_dependsCurrentTier": 1
+=======
+    "bannedPoolDbfIds": []
+>>>>>>> 34d6c8f8c1af8109fa8605f3f833a1996e32fb83
   },
   {
     "id": 3,
@@ -136,20 +156,28 @@
     "raceId": 0,
     "schoolId": 0,
     "rarityId": 0,
+    "bg_isGolden": 0,
     "keywordTagId": 0,
     "tagId": 0,
     "tagValue": -1,
     "isFromThePast": 0,
     "isForGenerating": 1,
     "isCostVaried": 0,
+    "isFromThePast": 0,
     "dependsTarget": 0,
     "dependsCurrentClass": 0,
     "requiresAnotherClass": 1,
     "dependsFormat": 1,
+<<<<<<< HEAD
     "additionalPoolDbfIds": [],
     "wikiBanPoolIds": [],
     "bg_isGolden": 0,
     "bg_dependsCurrentTier": 0
+=======
+    "bg_dependsCurrentTier": 0,
+    "additionalPoolDbfIds": [],
+    "bannedPoolDbfIds": []
+>>>>>>> 34d6c8f8c1af8109fa8605f3f833a1996e32fb83
   },
   {
     "id": 5,
@@ -157,9 +185,15 @@
     "sectionName": "Friend of a Friend's Buddies",
     "description": null,
     "generatorDbfIds": [
+<<<<<<< HEAD
       87689,
       87690,
       101346
+=======
+      97814,
+      101442,
+      101443
+>>>>>>> 34d6c8f8c1af8109fa8605f3f833a1996e32fb83
     ],
     "gameMode": 3,
     "ignoresFilters": 0,
@@ -212,21 +246,99 @@
     "raceId": 0,
     "schoolId": 0,
     "rarityId": 0,
+    "bg_isGolden": 0,
     "keywordTagId": 0,
     "tagId": 0,
     "tagValue": -1,
     "isFromThePast": 0,
     "isForGenerating": 0,
     "isCostVaried": 0,
+    "isFromThePast": 0,
     "dependsTarget": 0,
     "dependsCurrentClass": 0,
     "requiresAnotherClass": 0,
     "dependsFormat": 0,
+<<<<<<< HEAD
     "additionalPoolDbfIds": [],
     "wikiBanPoolIds": [
       7
     ],
     "bg_isGolden": 0,
     "bg_dependsCurrentTier": 0
+=======
+    "bg_dependsCurrentTier": 1,
+    "additionalPoolDbfIds": [
+      99527,
+      95246,
+      98867,
+      99577,
+      99524
+    ],
+    "bannedPoolDbfIds": []
+  },
+  {
+    "id": 5,
+    "mockupName": "Friend of a Friend's Buddies",
+    "sectionName": "Friend of a Friend's Buddies",
+    "description": null,
+    "generatorDbfIds": [
+      87689,
+      87690,
+      101346
+    ],
+    "gameMode": 3,
+    "costMore": -1,
+    "costLess": -1,
+    "costEqual": -1,
+    "attackMore": -1,
+    "attackLess": -1,
+    "attackEqual": -1,
+    "classId": 0,
+    "cardTypeId": 0,
+    "raceId": 0,
+    "schoolId": 0,
+    "rarityId": 0,
+    "bg_isGolden": 0,
+    "keywordTagId": 0,
+    "tagId": 2154,
+    "tagValue": 1,
+    "isForGenerating": 1,
+    "isCostVaried": 0,
+    "isFromThePast": 0,
+    "dependsTarget": 0,
+    "dependsCurrentClass": 0,
+    "requiresAnotherClass": 0,
+    "dependsFormat": 0,
+    "bg_dependsCurrentTier": 1,
+    "additionalPoolDbfIds": [
+      99527,
+      95246,
+      98867,
+      99577,
+      99524
+    ],
+    "bannedPoolDbfIds": [
+      77882,
+      77776,
+      77788,
+      77792,
+      77794,
+      77508,
+      77800,
+      77723,
+      77514,
+      77809,
+      77813,
+      77829,
+      77880,
+      77837,
+      77843,
+      77888,
+      77890,
+      77629,
+      77872,
+      77833
+    ]
+>>>>>>> 34d6c8f8c1af8109fa8605f3f833a1996e32fb83
   }
 ]
