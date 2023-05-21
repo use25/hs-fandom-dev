@@ -1,0 +1,66 @@
+[
+  {
+    "id": 361,
+    "buildAdded": 170824,
+    "frontText": "Earnable on the <i>Festival of Legends</i> reward track.",
+    "artist": null,
+    "artistRefs": [],
+    "costGold": null
+  },
+  {
+    "id": 365,
+    "buildAdded": 168788,
+    "frontText": "Acquired by pre-purchasing the Festival of Legends.",
+    "artist": null,
+    "artistRefs": [],
+    "costGold": null
+  },
+  {
+    "id": 366,
+    "buildAdded": 168788,
+    "frontText": "Obtainable by purchasing in the shop.",
+    "artist": null,
+    "artistRefs": [],
+    "costGold": null
+  },
+  {
+    "id": 367,
+    "buildAdded": 170824,
+    "frontText": "Earnable after purchasing the <i>Festival of Legends</i> Tavern Pass.",
+    "artist": null,
+    "artistRefs": [],
+    "costGold": null
+  },
+  {
+    "id": 368,
+    "buildAdded": 170824,
+    "frontText": "Earnable on the <i>Festival of Legends</i> reward track.",
+    "artist": null,
+    "artistRefs": [],
+    "costGold": null
+  },
+  {
+    "id": 369,
+    "buildAdded": 170824,
+    "frontText": "Acquired by winning 5 games in ranked mode, May 2023.",
+    "artist": null,
+    "artistRefs": [],
+    "costGold": null
+  },
+  {
+    "id": 370,
+    "buildAdded": 174258,
+    "frontText": "Acquired by winning 5 games in ranked mode, June 2023.",
+    "artist": null,
+    "artistRefs": [],
+    "costGold": null
+  },
+  {
+    "id": 373,
+    "buildAdded": 174258,
+    "frontText": "Acquired by winning 5 games in ranked mode, August 2023.",
+    "artist": null,
+    "artistRefs": [],
+    "costGold": null
+  }
+]

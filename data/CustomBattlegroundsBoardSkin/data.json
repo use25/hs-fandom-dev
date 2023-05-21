@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "buildAdded": 126807,
+    "frontText": null,
+    "artist": null,
+    "artistRefs": [],
+    "vfxArtist": null,
+    "vfxArtistRefs": []
+  },
+  {
+    "id": 3,
+    "buildAdded": 126807,
+    "frontText": null,
+    "artist": null,
+    "artistRefs": [],
+    "vfxArtist": null,
+    "vfxArtistRefs": []
+  },
+  {
+    "id": 4,
+    "buildAdded": null,
+    "frontText": null,
+    "artist": null,
+    "artistRefs": [],
+    "vfxArtist": null,
+    "vfxArtistRefs": []
+  },
+  {
+    "id": 17,
+    "buildAdded": null,
+    "frontText": null,
+    "artist": null,
+    "artistRefs": [],
+    "vfxArtist": null,
+    "vfxArtistRefs": []
+  },
+  {
+    "id": 18,
+    "buildAdded": null,
+    "frontText": null,
+    "artist": null,
+    "artistRefs": [],
+    "vfxArtist": null,
+    "vfxArtistRefs": []
+  },
+  {
+    "id": 40,
+    "buildAdded": 162867,
+    "frontText": null,
+    "artist": null,
+    "artistRefs": [],
+    "vfxArtist": null,
+    "vfxArtistRefs": []
+  },
+  {
+    "id": 42,
+    "buildAdded": 168788,
+    "frontText": "Obtainable by purchasing in the shop.",
+    "artist": null,
+    "artistRefs": [],
+    "vfxArtist": null,
+    "vfxArtistRefs": []
+  },
+  {
+    "id": 43,
+    "buildAdded": 174258,
+    "frontText": null,
+    "artist": null,
+    "artistRefs": [],
+    "vfxArtist": null,
+    "vfxArtistRefs": []
+  }
+]

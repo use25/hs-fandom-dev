@@ -212,8 +212,8 @@
       12
     ],
     "allGolden": 1,
-    "pityTimer": null,
-    "firstLeg": null
+    "pityTimer": 1,
+    "firstLeg": 1
   },
   {
     "id": 30,
@@ -468,12 +468,10 @@
       "Class"
     ],
     "setsId": [
-      1525,
-      1578,
-      1626,
       1658,
       1691,
-      1776
+      1776,
+      1809
     ],
     "classesId": [
       3
@@ -518,12 +516,10 @@
       "Class"
     ],
     "setsId": [
-      1525,
-      1578,
-      1626,
       1658,
       1691,
-      1776
+      1776,
+      1809
     ],
     "classesId": [
       4
@@ -613,8 +609,8 @@
       14
     ],
     "allGolden": 1,
-    "pityTimer": null,
-    "firstLeg": null
+    "pityTimer": 1,
+    "firstLeg": 1
   },
   {
     "id": 616,
@@ -655,9 +651,7 @@
     "setsId": [
       1586
     ],
-    "classesId": [
-      ""
-    ],
+    "classesId": [],
     "allGolden": null,
     "pityTimer": null,
     "firstLeg": 1
@@ -670,12 +664,10 @@
       "Class"
     ],
     "setsId": [
-      1525,
-      1578,
-      1626,
       1658,
       1691,
-      1776
+      1776,
+      1809
     ],
     "classesId": [
       2
@@ -692,12 +684,10 @@
       "Class"
     ],
     "setsId": [
-      1525,
-      1578,
-      1626,
       1658,
       1691,
-      1776
+      1776,
+      1809
     ],
     "classesId": [
       5
@@ -714,12 +704,10 @@
       "Class"
     ],
     "setsId": [
-      1525,
-      1578,
-      1626,
       1658,
       1691,
-      1776
+      1776,
+      1809
     ],
     "classesId": [
       10
@@ -736,12 +724,10 @@
       "Class"
     ],
     "setsId": [
-      1525,
-      1578,
-      1626,
       1658,
       1691,
-      1776
+      1776,
+      1809
     ],
     "classesId": [
       6
@@ -758,12 +744,10 @@
       "Class"
     ],
     "setsId": [
-      1525,
-      1578,
-      1626,
       1658,
       1691,
-      1776
+      1776,
+      1809
     ],
     "classesId": [
       7
@@ -780,12 +764,10 @@
       "Class"
     ],
     "setsId": [
-      1525,
-      1578,
-      1626,
       1658,
       1691,
-      1776
+      1776,
+      1809
     ],
     "classesId": [
       8
@@ -802,12 +784,10 @@
       "Class"
     ],
     "setsId": [
-      1525,
-      1578,
-      1626,
       1658,
       1691,
-      1776
+      1776,
+      1809
     ],
     "classesId": [
       9
@@ -824,12 +804,10 @@
       "Class"
     ],
     "setsId": [
-      1525,
-      1578,
-      1626,
       1658,
       1691,
-      1776
+      1776,
+      1809
     ],
     "classesId": [
       14
@@ -863,8 +841,8 @@
       14
     ],
     "allGolden": 1,
-    "pityTimer": null,
-    "firstLeg": null
+    "pityTimer": 1,
+    "firstLeg": 1
   },
   {
     "id": 665,
@@ -919,8 +897,8 @@
       14
     ],
     "allGolden": 1,
-    "pityTimer": null,
-    "firstLeg": null
+    "pityTimer": 1,
+    "firstLeg": 1
   },
   {
     "id": 688,
@@ -976,7 +954,7 @@
       14
     ],
     "allGolden": null,
-    "pityTimer": null,
+    "pityTimer": 1,
     "firstLeg": 1
   },
   {
@@ -987,14 +965,13 @@
       "Available with gold"
     ],
     "setsId": [
-      1525,
-      1578,
-      1626,
       1658,
       1691,
-      1776
+      1776,
+      1809
     ],
     "classesId": [
+      1,
       2,
       3,
       4,
@@ -1036,9 +1013,13 @@
       1347,
       1414,
       1443,
-      1466
+      1466,
+      1525,
+      1578,
+      1626
     ],
     "classesId": [
+      1,
       2,
       3,
       4,
@@ -1063,12 +1044,10 @@
       "Golden"
     ],
     "setsId": [
-      1525,
-      1578,
-      1626,
       1658,
       1691,
-      1776
+      1776,
+      1809
     ],
     "classesId": [
       1,
@@ -1085,8 +1064,8 @@
       14
     ],
     "allGolden": 1,
-    "pityTimer": null,
-    "firstLeg": null
+    "pityTimer": 1,
+    "firstLeg": 1
   },
   {
     "id": 729,
@@ -1113,7 +1092,7 @@
       14
     ],
     "allGolden": null,
-    "pityTimer": null,
+    "pityTimer": 1,
     "firstLeg": 1
   },
   {
@@ -1140,8 +1119,8 @@
       14
     ],
     "allGolden": 1,
-    "pityTimer": null,
-    "firstLeg": null
+    "pityTimer": 1,
+    "firstLeg": 1
   },
   {
     "id": 821,
@@ -1169,7 +1148,7 @@
       14
     ],
     "allGolden": null,
-    "pityTimer": null,
+    "pityTimer": 1,
     "firstLeg": 1
   },
   {
@@ -1196,8 +1175,8 @@
       14
     ],
     "allGolden": 1,
-    "pityTimer": null,
-    "firstLeg": null
+    "pityTimer": 1,
+    "firstLeg": 1
   },
   {
     "id": 850,
@@ -1223,8 +1202,37 @@
       14
     ],
     "allGolden": 1,
-    "pityTimer": null,
-    "firstLeg": null
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 854,
+    "renderName": "Festival of Legends",
+    "image": "Festival_of_Legends_-_Card_pack.png",
+    "types": [
+      "Card set",
+      " Available with gold"
+    ],
+    "setsId": [
+      1809
+    ],
+    "classesId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": null,
+    "pityTimer": 1,
+    "firstLeg": 1
   },
   {
     "id": 874,
@@ -1250,8 +1258,8 @@
       14
     ],
     "allGolden": 1,
-    "pityTimer": null,
-    "firstLeg": null
+    "pityTimer": 1,
+    "firstLeg": 1
   },
   {
     "id": 904,
@@ -1278,7 +1286,10 @@
       1347,
       1414,
       1443,
-      1466
+      1466,
+      1525,
+      1578,
+      1626
     ],
     "classesId": [
       1,
@@ -1306,12 +1317,10 @@
       "Class"
     ],
     "setsId": [
-      1525,
-      1578,
-      1626,
       1658,
       1691,
-      1776
+      1776,
+      1809
     ],
     "classesId": [
       1
@@ -1345,7 +1354,35 @@
       14
     ],
     "allGolden": 1,
-    "pityTimer": null,
-    "firstLeg": null
+    "pityTimer": 1,
+    "firstLeg": 1
+  },
+  {
+    "id": 932,
+    "renderName": "Golden Festival of Legends",
+    "image": "Festival_of_Legends_-_Golden_pack.png",
+    "types": [
+      "Golden"
+    ],
+    "setsId": [
+      1809
+    ],
+    "classesId": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14
+    ],
+    "allGolden": 1,
+    "pityTimer": 1,
+    "firstLeg": 1
   }
 ]

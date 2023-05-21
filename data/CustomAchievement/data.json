@@ -1,5 +1,31 @@
 [
   {
+    "achievementId": 4560,
+    "relatedCardDbfIds": [
+      78086,
+      79922,
+      90906
+    ]
+  },
+  {
+    "achievementId": 5061,
+    "relatedCardDbfIds": [
+      84240
+    ]
+  },
+  {
+    "achievementId": 5062,
+    "relatedCardDbfIds": [
+      84240
+    ]
+  },
+  {
+    "achievementId": 5063,
+    "relatedCardDbfIds": [
+      84240
+    ]
+  },
+  {
     "achievementId": 5106,
     "relatedCardDbfIds": [
       93881,
@@ -48,6 +74,614 @@
     "achievementId": 5206,
     "relatedCardDbfIds": [
       86733
+    ]
+  },
+  {
+    "achievementId": 5437,
+    "relatedCardDbfIds": [
+      90532
+    ]
+  },
+  {
+    "achievementId": 5438,
+    "relatedCardDbfIds": [
+      90608
+    ]
+  },
+  {
+    "achievementId": 5439,
+    "relatedCardDbfIds": [
+      90441
+    ]
+  },
+  {
+    "achievementId": 5440,
+    "relatedCardDbfIds": [
+      90441
+    ]
+  },
+  {
+    "achievementId": 5441,
+    "relatedCardDbfIds": [
+      90441
+    ]
+  },
+  {
+    "achievementId": 5442,
+    "relatedCardDbfIds": [
+      94381
+    ]
+  },
+  {
+    "achievementId": 5443,
+    "relatedCardDbfIds": [
+      94218,
+      94249
+    ]
+  },
+  {
+    "achievementId": 5444,
+    "relatedCardDbfIds": [
+      94218,
+      94249
+    ]
+  },
+  {
+    "achievementId": 5445,
+    "relatedCardDbfIds": [
+      94204
+    ]
+  },
+  {
+    "achievementId": 5446,
+    "relatedCardDbfIds": [
+      94218,
+      94249
+    ]
+  },
+  {
+    "achievementId": 5447,
+    "relatedCardDbfIds": [
+      91495
+    ]
+  },
+  {
+    "achievementId": 5448,
+    "relatedCardDbfIds": [
+      96996,
+      97362
+    ]
+  },
+  {
+    "achievementId": 5449,
+    "relatedCardDbfIds": [
+      97363
+    ]
+  },
+  {
+    "achievementId": 5450,
+    "relatedCardDbfIds": [
+      97363
+    ]
+  },
+  {
+    "achievementId": 5451,
+    "relatedCardDbfIds": [
+      97363
+    ]
+  },
+  {
+    "achievementId": 5452,
+    "relatedCardDbfIds": [
+      90368
+    ]
+  },
+  {
+    "achievementId": 5453,
+    "relatedCardDbfIds": [
+      97361
+    ]
+  },
+  {
+    "achievementId": 5454,
+    "relatedCardDbfIds": [
+      90534
+    ]
+  },
+  {
+    "achievementId": 5455,
+    "relatedCardDbfIds": [
+      90534
+    ]
+  },
+  {
+    "achievementId": 5456,
+    "relatedCardDbfIds": [
+      90534
+    ]
+  },
+  {
+    "achievementId": 5457,
+    "relatedCardDbfIds": [
+      90688
+    ]
+  },
+  {
+    "achievementId": 5458,
+    "relatedCardDbfIds": [
+      90941
+    ]
+  },
+  {
+    "achievementId": 5459,
+    "relatedCardDbfIds": [
+      90945
+    ]
+  },
+  {
+    "achievementId": 5460,
+    "relatedCardDbfIds": [
+      90945
+    ]
+  },
+  {
+    "achievementId": 5461,
+    "relatedCardDbfIds": [
+      90945
+    ]
+  },
+  {
+    "achievementId": 5462,
+    "relatedCardDbfIds": [
+      90959
+    ]
+  },
+  {
+    "achievementId": 5463,
+    "relatedCardDbfIds": [
+      97403
+    ]
+  },
+  {
+    "achievementId": 5464,
+    "relatedCardDbfIds": [
+      90687
+    ]
+  },
+  {
+    "achievementId": 5465,
+    "relatedCardDbfIds": [
+      90687
+    ]
+  },
+  {
+    "achievementId": 5466,
+    "relatedCardDbfIds": [
+      90687
+    ]
+  },
+  {
+    "achievementId": 5467,
+    "relatedCardDbfIds": [
+      90583
+    ]
+  },
+  {
+    "achievementId": 5468,
+    "relatedCardDbfIds": [
+      90603
+    ]
+  },
+  {
+    "achievementId": 5469,
+    "relatedCardDbfIds": [
+      90561
+    ]
+  },
+  {
+    "achievementId": 5470,
+    "relatedCardDbfIds": [
+      90561
+    ]
+  },
+  {
+    "achievementId": 5471,
+    "relatedCardDbfIds": [
+      90561
+    ]
+  },
+  {
+    "achievementId": 5472,
+    "relatedCardDbfIds": [
+      92227
+    ]
+  },
+  {
+    "achievementId": 5473,
+    "relatedCardDbfIds": [
+      92335
+    ]
+  },
+  {
+    "achievementId": 5474,
+    "relatedCardDbfIds": [
+      92276
+    ]
+  },
+  {
+    "achievementId": 5475,
+    "relatedCardDbfIds": [
+      92276
+    ]
+  },
+  {
+    "achievementId": 5476,
+    "relatedCardDbfIds": [
+      92276
+    ]
+  },
+  {
+    "achievementId": 5477,
+    "relatedCardDbfIds": [
+      91001
+    ]
+  },
+  {
+    "achievementId": 5478,
+    "relatedCardDbfIds": [
+      90993
+    ]
+  },
+  {
+    "achievementId": 5479,
+    "relatedCardDbfIds": [
+      90996
+    ]
+  },
+  {
+    "achievementId": 5480,
+    "relatedCardDbfIds": [
+      90996
+    ]
+  },
+  {
+    "achievementId": 5481,
+    "relatedCardDbfIds": [
+      90996
+    ]
+  },
+  {
+    "achievementId": 5482,
+    "relatedCardDbfIds": [
+      90678
+    ]
+  },
+  {
+    "achievementId": 5483,
+    "relatedCardDbfIds": [
+      92266,
+      92267,
+      92268
+    ]
+  },
+  {
+    "achievementId": 5484,
+    "relatedCardDbfIds": [
+      92340
+    ]
+  },
+  {
+    "achievementId": 5485,
+    "relatedCardDbfIds": [
+      92340
+    ]
+  },
+  {
+    "achievementId": 5486,
+    "relatedCardDbfIds": [
+      92340
+    ]
+  },
+  {
+    "achievementId": 5490,
+    "relatedCardDbfIds": [
+      92237
+    ]
+  },
+  {
+    "achievementId": 5491,
+    "relatedCardDbfIds": [
+      92237
+    ]
+  },
+  {
+    "achievementId": 5492,
+    "relatedCardDbfIds": [
+      92237
+    ]
+  },
+  {
+    "achievementId": 5493,
+    "relatedCardDbfIds": [
+      90966
+    ]
+  },
+  {
+    "achievementId": 5494,
+    "relatedCardDbfIds": [
+      90966
+    ]
+  },
+  {
+    "achievementId": 5495,
+    "relatedCardDbfIds": [
+      90966
+    ]
+  },
+  {
+    "achievementId": 5496,
+    "relatedCardDbfIds": [
+      92243
+    ]
+  },
+  {
+    "achievementId": 5497,
+    "relatedCardDbfIds": [
+      92243
+    ]
+  },
+  {
+    "achievementId": 5498,
+    "relatedCardDbfIds": [
+      91511
+    ]
+  },
+  {
+    "achievementId": 5499,
+    "relatedCardDbfIds": [
+      87639,
+      87642,
+      87648,
+      92227,
+      87681,
+      87682,
+      91885
+    ]
+  },
+  {
+    "achievementId": 5500,
+    "relatedCardDbfIds": [
+      87639,
+      87642,
+      87648,
+      92227,
+      87681,
+      87682,
+      91885
+    ]
+  },
+  {
+    "achievementId": 5501,
+    "relatedCardDbfIds": [
+      90972
+    ]
+  },
+  {
+    "achievementId": 5502,
+    "relatedCardDbfIds": [
+      91080
+    ]
+  },
+  {
+    "achievementId": 5503,
+    "relatedCardDbfIds": [
+      92235
+    ]
+  },
+  {
+    "achievementId": 5504,
+    "relatedCardDbfIds": [
+      92235
+    ]
+  },
+  {
+    "achievementId": 5505,
+    "relatedCardDbfIds": [
+      92235
+    ]
+  },
+  {
+    "achievementId": 5506,
+    "relatedCardDbfIds": [
+      91412,
+      94210,
+      88580,
+      90683,
+      88403
+    ]
+  },
+  {
+    "achievementId": 5507,
+    "relatedCardDbfIds": [
+      91415,
+      94211,
+      88555,
+      97461,
+      90921
+    ]
+  },
+  {
+    "achievementId": 5508,
+    "relatedCardDbfIds": [
+      90749
+    ]
+  },
+  {
+    "achievementId": 5509,
+    "relatedCardDbfIds": [
+      90543
+    ]
+  },
+  {
+    "achievementId": 5510,
+    "relatedCardDbfIds": [
+      97532
+    ]
+  },
+  {
+    "achievementId": 5511,
+    "relatedCardDbfIds": [
+      91232
+    ]
+  },
+  {
+    "achievementId": 5512,
+    "relatedCardDbfIds": [
+      91251
+    ]
+  },
+  {
+    "achievementId": 5513,
+    "relatedCardDbfIds": [
+      91251
+    ]
+  },
+  {
+    "achievementId": 5514,
+    "relatedCardDbfIds": [
+      91251
+    ]
+  },
+  {
+    "achievementId": 5825,
+    "relatedCardDbfIds": [
+      58202,
+      102184
+    ]
+  },
+  {
+    "achievementId": 5826,
+    "relatedCardDbfIds": [
+      58202,
+      102184
+    ]
+  },
+  {
+    "achievementId": 5829,
+    "relatedCardDbfIds": [
+      45590,
+      97374
+    ]
+  },
+  {
+    "achievementId": 5830,
+    "relatedCardDbfIds": [
+      45590,
+      97374
+    ]
+  },
+  {
+    "achievementId": 5831,
+    "relatedCardDbfIds": [
+      40567,
+      102196
+    ]
+  },
+  {
+    "achievementId": 5832,
+    "relatedCardDbfIds": [
+      40567,
+      102196
+    ]
+  },
+  {
+    "achievementId": 5833,
+    "relatedCardDbfIds": [
+      48542,
+      97329
+    ]
+  },
+  {
+    "achievementId": 5834,
+    "relatedCardDbfIds": [
+      48542,
+      97329
+    ]
+  },
+  {
+    "achievementId": 5839,
+    "relatedCardDbfIds": [
+      2078,
+      51739,
+      56107,
+      75829,
+      2235,
+      102216
+    ]
+  },
+  {
+    "achievementId": 5840,
+    "relatedCardDbfIds": [
+      2078,
+      51739,
+      56107,
+      75829,
+      2235,
+      102216
+    ]
+  },
+  {
+    "achievementId": 5841,
+    "relatedCardDbfIds": [
+      41353,
+      97376
+    ]
+  },
+  {
+    "achievementId": 5842,
+    "relatedCardDbfIds": [
+      41353,
+      97376
+    ]
+  },
+  {
+    "achievementId": 5843,
+    "relatedCardDbfIds": [
+      38267,
+      102209
+    ]
+  },
+  {
+    "achievementId": 5844,
+    "relatedCardDbfIds": [
+      38267,
+      102209
+    ]
+  },
+  {
+    "achievementId": 5845,
+    "relatedCardDbfIds": [
+      42471,
+      95688
+    ]
+  },
+  {
+    "achievementId": 5846,
+    "relatedCardDbfIds": [
+      42471,
+      95688
+    ]
+  },
+  {
+    "achievementId": 5849,
+    "relatedCardDbfIds": [
+      80736
+    ]
+  },
+  {
+    "achievementId": 5850,
+    "relatedCardDbfIds": [
+      80736
     ]
   }
 ]

@@ -1,0 +1,72 @@
+[
+  {
+    "sortCategory": 0,
+    "name": "Other",
+    "wikiDescription": "These card backs are uncategorized by Team 5 developers."
+  },
+  {
+    "sortCategory": 1,
+    "name": "Basic",
+    "wikiDescription": "These card backs are available for all players."
+  },
+  {
+    "sortCategory": 2,
+    "name": "Fireside",
+    "wikiDescription": "These card backs can be obtained by participating in [[Fireside Gathering]] activities."
+  },
+  {
+    "sortCategory": 3,
+    "name": "Achievements",
+    "wikiDescription": "These card backs can be obtained by completing [[Achievement]]s or [[Solo Adventure]]s, or reaching milestones in [[Rewards Track]]s."
+  },
+  {
+    "sortCategory": 4,
+    "name": "Heroes",
+    "wikiDescription": "These card backs are associated with [[hero skin]]s and can be obtained either by buying the hero skin or [[expansion]] pre-order bundles."
+  },
+  {
+    "sortCategory": 5,
+    "name": "Seasonal",
+    "wikiDescription": "These card backs can be obtained by winning [[Ranked]] games (sorted by newest season)."
+  },
+  {
+    "sortCategory": 6,
+    "name": "Legend",
+    "wikiDescription": "This card back can be obtained by reaching the Legend rank."
+  },
+  {
+    "sortCategory": 7,
+    "name": "Esports",
+    "wikiDescription": "These card backs can be obtained by participating in Esports events."
+  },
+  {
+    "sortCategory": 8,
+    "name": "Games",
+    "wikiDescription": "These card backs promote Blizzard's other games and can be obtained by either playing them or buying associated bundles."
+  },
+  {
+    "sortCategory": 9,
+    "name": "Promotion",
+    "wikiDescription": "These card backs promote platforms that support Hearthstone and can be obtained by using their products."
+  },
+  {
+    "sortCategory": 10,
+    "name": "Pre-Purchase",
+    "wikiDescription": "These card backs can be obtained by purchasing pre-order bundles."
+  },
+  {
+    "sortCategory": 11,
+    "name": "Blizzard",
+    "wikiDescription": "These card backs can only be obtained by participating in BlizzCon events."
+  },
+  {
+    "sortCategory": 12,
+    "name": "Golden",
+    "wikiDescription": "These card backs can only be obtained with a high level finish in official Esports events."
+  },
+  {
+    "sortCategory": 13,
+    "name": "Events",
+    "wikiDescription": "These card backs can be obtained by playing special [[Tavern Brawl]]s or participating in other unique events."
+  }
+]

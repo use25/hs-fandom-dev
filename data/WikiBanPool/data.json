@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "mockupName": "Buddy generation",
+    "sectionName": "Buddy generation",
+    "description": "These Battlegrounds Buddies cannot be randomly generated.",
+    "dbfIds": [
+      77882,
+      77776,
+      77788,
+      77792,
+      77794,
+      77508,
+      77800,
+      77723,
+      77514,
+      77809,
+      77813,
+      77829,
+      77880,
+      77837,
+      77843,
+      77888,
+      77890,
+      77629,
+      77872,
+      77833,
+      98635,
+      98656,
+      77484,
+      101435,
+      77778,
+      77495,
+      77511,
+      77510
+    ],
+    "build": 170126,
+    "refs": [
+      "GnomeSayin (2023-03-28). [https://us.forums.blizzard.com/en/hearthstone/t/2563-patch-notes/104774 25.6.3 Patch Notes]. Blizzard Forums. Retrieved on 2023-03-29."
+    ]
+  },
+  {
+    "id": 2,
+    "mockupName": "Hard-coded bans",
+    "sectionName": "Card generation",
+    "description": "These cards cannot be [[generate]]d or [[Discover]]ed in any [[constructed]] format.",
+    "dbfIds": [
+      90606,
+      97532,
+      61503
+    ],
+    "build": 170126,
+    "refs": [
+      "{{cite web|url=https://twitter.com/MyntyPhresh/status/1635794460239089664|title=Leo Robles on Twitter about CNE|date=2023-03-14}}",
+      "{{cite web|url=https://twitter.com/MyntyPhresh/status/1637873960800129025|title=Leo Robles on Twitter about Bounce Around|date=2023-03-20}}",
+      "{{cite web|title=Chadd Nervig on Twitter about C'Thun, the Shattered|url=https://twitter.com/Celestalon/status/1319470816371769344|date=2020-10-22}}"
+    ]
+  },
+  {
+    "id": 3,
+    "mockupName": "Hero cards except Jaraxxus and Galakronds",
+    "sectionName": "Hero cards",
+    "description": "Hero cards cannot be drafted in Arena.",
+    "dbfIds": [
+      42987,
+      43392,
+      43398,
+      43406,
+      43408,
+      43415,
+      43417,
+      43419,
+      43423,
+      46887,
+      48146,
+      49819,
+      56076,
+      66848,
+      66876,
+      66939,
+      66951,
+      66953,
+      67040,
+      67048,
+      67760,
+      67779,
+      67803,
+      95644,
+      95687,
+      95704,
+      95724,
+      95745,
+      95749,
+      95766,
+      95774,
+      95775
+    ],
+    "build": 170126,
+    "refs": []
+  },
+  {
+    "id": 4,
+    "mockupName": "Galakrond and Invoke cards",
+    "sectionName": "Galakrond and Invoke cards",
+    "description": "Galakrond and Invoke cards cannot be generated randomly or drafted in Arena.",
+    "dbfIds": [
+      54871,
+      54874,
+      54888,
+      54890,
+      54967,
+      54969,
+      55000,
+      55002,
+      55094,
+      55097,
+      55166,
+      55210,
+      55245,
+      55246,
+      55248,
+      55250,
+      55251,
+      57329,
+      57413,
+      57416,
+      57419,
+      57427
+    ],
+    "build": 170126,
+    "refs": [
+      "{{tw|https://twitter.com/Celestalon/status/1276347061965750273|2020-06-25|Chadd Nervig}}"
+    ]
+  },
+  {
+    "id": 5,
+    "mockupName": "C'Thun related cards",
+    "sectionName": "C'Thun related cards",
+    "description": "C'Thun-related cards are banned in Arena.",
+    "dbfIds": [
+      38429,
+      38488,
+      38547,
+      38621,
+      38795,
+      38859,
+      38861,
+      38863,
+      38864,
+      38868,
+      38882,
+      38897,
+      38898,
+      38900,
+      38958,
+      39033,
+      39118
+    ],
+    "build": 170126,
+    "refs": []
+  },
+  {
+    "id": 6,
+    "mockupName": "Quests and Questlines",
+    "sectionName": "Quests and Questlines",
+    "description": "Quests and Questlines cannot be generated randomly or drafted in Arena, and they do not appear in Duels card buckets.",
+    "dbfIds": [
+      41099,
+      41168,
+      41222,
+      41368,
+      41427,
+      41494,
+      41499,
+      41856,
+      41868,
+      53496,
+      53739,
+      53907,
+      53924,
+      53945,
+      53947,
+      54311,
+      54369,
+      54391,
+      54749,
+      56120,
+      56307,
+      63821,
+      64280,
+      64291,
+      64308,
+      64322,
+      64349,
+      64375,
+      64488,
+      64637,
+      64678,
+      64900
+    ],
+    "build": 170126,
+    "refs": []
+  },
+  {
+    "id": 7,
+    "mockupName": "E.T.C. bans",
+    "sectionName": "E.T.C.'s blacklist",
+    "description": "These cards cannot be put into [[E.T.C., Band Manager]]'s sideboard.",
+    "dbfIds": [
+      102718,
+      39840,
+      47693,
+      48158,
+      50477,
+      56047,
+      57329,
+      57413,
+      57416,
+      57419,
+      57427,
+      61503,
+      64443,
+      64673,
+      66870,
+      79767,
+      84245
+    ],
+    "build": 170126,
+    "refs": [
+      "[[Patch 25.6.0.168788]]"
+    ]
+  },
+  {
+    "id": 8,
+    "mockupName": "Eternal Summoner's Pool 2 exclusions",
+    "sectionName": "Eternal Summoner's Pool 2 exclusions",
+    "description": "If you choose Eternal Summoner from Pool 1, you will never be offered these cards in Pool 2.",
+    "dbfIds": [
+      99527,
+      95246,
+      98867,
+      99577,
+      99524
+    ],
+    "build": 170126,
+    "refs": [
+      "[[Patch 25.2.2.163976]]"
+    ]
+  },
+  {
+    "id": 9,
+    "mockupName": "Festergut 1",
+    "sectionName": "Festergut's Pool 1 exclusions",
+    "description": "These minions cannot be part of the Undead Creation summoned by Festergut.",
+    "dbfIds": [
+      99573
+    ],
+    "build": 174258,
+    "refs": [
+      "[[Patch 26.0.2.172421]]"
+    ]
+  },
+  {
+    "id": 10,
+    "mockupName": "Triple-rune",
+    "sectionName": "3-rune cards",
+    "description": "These cards have 3 [[Rune]]s and cannot be generated randomly.",
+    "dbfIds": [
+      100727,
+      100735,
+      100762,
+      100807,
+      100809,
+      78335,
+      78345,
+      78355,
+      79480,
+      80644,
+      80645,
+      80708,
+      80822,
+      81963,
+      97532
+    ],
+    "build": 174258,
+    "refs": [
+      "[[Patch 26.0.4.173781]]"
+    ]
+  }
+]
