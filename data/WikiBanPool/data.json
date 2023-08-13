@@ -4,6 +4,7 @@
     "mockupName": "Buddy generation",
     "sectionName": "Buddy generation",
     "description": "These Battlegrounds Buddies cannot be randomly generated.",
+    "gameMode": 3,
     "dbfIds": [
       77882,
       77776,
@@ -34,9 +35,9 @@
       77511,
       77510
     ],
-    "build": 170126,
+    "build": 183433,
     "refs": [
-      "GnomeSayin (2023-03-28). [https://us.forums.blizzard.com/en/hearthstone/t/2563-patch-notes/104774 25.6.3 Patch Notes]. Blizzard Forums. Retrieved on 2023-03-29."
+      "{{cite web|url=https://us.forums.blizzard.com/en/hearthstone/t/2563-patch-notes/104774|title=25.6.3 Patch Notes|author=GnomeSayin|date=2023-03-28|accessdate=2023-03-29|work=Blizzard Forums}}"
     ]
   },
   {
@@ -44,12 +45,13 @@
     "mockupName": "Hard-coded bans",
     "sectionName": "Card generation",
     "description": "These cards cannot be [[generate]]d or [[Discover]]ed in any [[constructed]] format.",
+    "gameMode": 1,
     "dbfIds": [
       90606,
       97532,
       61503
     ],
-    "build": 170126,
+    "build": 183433,
     "refs": [
       "{{cite web|url=https://twitter.com/MyntyPhresh/status/1635794460239089664|title=Leo Robles on Twitter about CNE|date=2023-03-14}}",
       "{{cite web|url=https://twitter.com/MyntyPhresh/status/1637873960800129025|title=Leo Robles on Twitter about Bounce Around|date=2023-03-20}}",
@@ -61,6 +63,7 @@
     "mockupName": "Hero cards except Jaraxxus and Galakronds",
     "sectionName": "Hero cards",
     "description": "Hero cards cannot be drafted in Arena.",
+    "gameMode": 1,
     "dbfIds": [
       42987,
       43392,
@@ -95,7 +98,7 @@
       95774,
       95775
     ],
-    "build": 170126,
+    "build": 183433,
     "refs": []
   },
   {
@@ -103,6 +106,7 @@
     "mockupName": "Galakrond and Invoke cards",
     "sectionName": "Galakrond and Invoke cards",
     "description": "Galakrond and Invoke cards cannot be generated randomly or drafted in Arena.",
+    "gameMode": 1,
     "dbfIds": [
       54871,
       54874,
@@ -127,7 +131,7 @@
       57419,
       57427
     ],
-    "build": 170126,
+    "build": 183433,
     "refs": [
       "{{tw|https://twitter.com/Celestalon/status/1276347061965750273|2020-06-25|Chadd Nervig}}"
     ]
@@ -137,6 +141,7 @@
     "mockupName": "C'Thun related cards",
     "sectionName": "C'Thun related cards",
     "description": "C'Thun-related cards are banned in Arena.",
+    "gameMode": 1,
     "dbfIds": [
       38429,
       38488,
@@ -156,14 +161,15 @@
       39033,
       39118
     ],
-    "build": 170126,
+    "build": 183433,
     "refs": []
   },
   {
     "id": 6,
     "mockupName": "Quests and Questlines",
     "sectionName": "Quests and Questlines",
-    "description": "Quests and Questlines cannot be generated randomly or drafted in Arena, and they do not appear in Duels card buckets.",
+    "description": "Quests and Questlines cannot be generated randomly or drafted in Arena, and they do not appear in [[Duels]] card buckets.",
+    "gameMode": 1,
     "dbfIds": [
       41099,
       41168,
@@ -179,14 +185,10 @@
       53907,
       53924,
       53945,
-      53947,
       54311,
       54369,
       54391,
       54749,
-      56120,
-      56307,
-      63821,
       64280,
       64291,
       64308,
@@ -198,14 +200,15 @@
       64678,
       64900
     ],
-    "build": 170126,
+    "build": 183433,
     "refs": []
   },
   {
     "id": 7,
-    "mockupName": "E.T.C. bans",
+    "mockupName": "DERIVED Sideboard",
     "sectionName": "E.T.C.'s blacklist",
     "description": "These cards cannot be put into [[E.T.C., Band Manager]]'s sideboard.",
+    "gameMode": 1,
     "dbfIds": [
       102718,
       39840,
@@ -225,8 +228,9 @@
       79767,
       84245
     ],
-    "build": 170126,
+    "build": 183433,
     "refs": [
+      "This list is derived by list of cards with tag <code>2936=1</code>.",
       "[[Patch 25.6.0.168788]]"
     ]
   },
@@ -235,6 +239,7 @@
     "mockupName": "Eternal Summoner's Pool 2 exclusions",
     "sectionName": "Eternal Summoner's Pool 2 exclusions",
     "description": "If you choose Eternal Summoner from Pool 1, you will never be offered these cards in Pool 2.",
+    "gameMode": 3,
     "dbfIds": [
       99527,
       95246,
@@ -242,7 +247,7 @@
       99577,
       99524
     ],
-    "build": 170126,
+    "build": 183433,
     "refs": [
       "[[Patch 25.2.2.163976]]"
     ]
@@ -252,10 +257,11 @@
     "mockupName": "Festergut 1",
     "sectionName": "Festergut's Pool 1 exclusions",
     "description": "These minions cannot be part of the Undead Creation summoned by Festergut.",
+    "gameMode": 3,
     "dbfIds": [
       99573
     ],
-    "build": 174258,
+    "build": 183433,
     "refs": [
       "[[Patch 26.0.2.172421]]"
     ]
@@ -265,12 +271,8 @@
     "mockupName": "Triple-rune",
     "sectionName": "3-rune cards",
     "description": "These cards have 3 [[Rune]]s and cannot be generated randomly.",
+    "gameMode": 1,
     "dbfIds": [
-      100727,
-      100735,
-      100762,
-      100807,
-      100809,
       78335,
       78345,
       78355,
@@ -282,9 +284,590 @@
       81963,
       97532
     ],
-    "build": 174258,
+    "build": 183433,
     "refs": [
       "[[Patch 26.0.4.173781]]"
+    ]
+  },
+  {
+    "id": 11,
+    "mockupName": "Odd Even",
+    "sectionName": "Odd and even-related cards",
+    "description": "These cards restrict deckbuilding based on cards' cost to be effective and cannot be drafted in Arena.",
+    "gameMode": 1,
+    "dbfIds": [
+      46680,
+      46996,
+      47693,
+      48158,
+      48444,
+      48445
+    ],
+    "build": 183433,
+    "refs": []
+  },
+  {
+    "id": 12,
+    "mockupName": "Summons",
+    "sectionName": "Banned from summoning pools",
+    "description": "These cards cannot be randomly summoned or transformed into due to them being [[Colossal]] or [[Dormant]] with Battlecry-related conditions.",
+    "gameMode": 1,
+    "dbfIds": [
+      46454,
+      58549,
+      71712,
+      71841,
+      71984,
+      72488,
+      72536,
+      72553,
+      72935,
+      73726,
+      74741,
+      74894,
+      75580,
+      75583,
+      87329
+    ],
+    "build": 183433,
+    "refs": [
+      "Ruliweb (2022-03-22). [https://bbs.ruliweb.com/news/read/163744 About Colossal: ????: ???? ???? ??, ? ??? ?? ????]. Retrieved on 2022-03-23.",
+      "[https://twitter.com/Songbird_HS/status/1541908291294334976 2022-06-29 on Twitter]. (Cora). "
+    ]
+  },
+  {
+    "id": 13,
+    "mockupName": "Titans",
+    "sectionName": "Titans",
+    "description": "Titan cards cannot be generated randomly and they do not appear in Duels card buckets.",
+    "gameMode": 1,
+    "dbfIds": [
+      97495,
+      96909,
+      96710,
+      96903,
+      97642,
+      97103,
+      98061,
+      98344,
+      98285,
+      97702,
+      96671
+    ],
+    "build": 183433,
+    "refs": [
+      "https://www.reddit.com/r/hearthstone/comments/14n4184/new_keyword_titan/"
+    ]
+  },
+  {
+    "id": 14,
+    "mockupName": "Unplayable cards",
+    "sectionName": "Unplayable cards",
+    "description": "Cards that can't be played cannot be taught for Nagaling.",
+    "gameMode": 1,
+    "dbfIds": [
+      43420,
+      86092
+    ],
+    "build": 183433,
+    "refs": [
+      "https://hearthstone.blizzard.com/cards/72598"
+    ]
+  },
+  {
+    "id": 15,
+    "mockupName": "Dream Portal bans",
+    "sectionName": "Dream Portal bans",
+    "description": "Due to unintended side effects, Nozdormu cannot be generated by Dream Portal.",
+    "gameMode": 1,
+    "dbfIds": [
+      411
+    ],
+    "build": 183433,
+    "refs": [
+      "[[Patch 18.0.2.56359]]"
+    ]
+  },
+  {
+    "id": 16,
+    "mockupName": "Master Nguyen's ban list",
+    "sectionName": "Master Nguyen's ban list",
+    "description": "These Hero Powers cannot be offered by [[Battlegrounds/Power of the Storm]].",
+    "gameMode": 3,
+    "dbfIds": [
+      57567,
+      73941
+    ],
+    "build": 183433,
+    "refs": [
+      "https://us.forums.blizzard.com/en/hearthstone/t/2701-patch-notes/110763"
+    ]
+  },
+  {
+    "id": 17,
+    "mockupName": "DERIVED Wild",
+    "sectionName": "Wild ban list",
+    "description": "These cards cannot be put into deck, cannot appear in card buckets and cannot be generated randomly in [[Wild]] games.",
+    "gameMode": 1,
+    "dbfIds": [
+      62498,
+      76921,
+      80118,
+      89147
+    ],
+    "build": 183433,
+    "refs": [
+      "This list is derived by list of cards with tag <code>2105=1</code>."
+    ]
+  },
+  {
+    "id": 18,
+    "mockupName": "DERIVED Duels",
+    "sectionName": "Duels ban list",
+    "description": "These cards cannot be put into deck, cannot appear in card buckets and cannot be generated randomly in [[Duels]] games.",
+    "gameMode": 1,
+    "dbfIds": [
+      90681,
+      9,
+      90293,
+      67873,
+      67825,
+      67769,
+      66863,
+      736,
+      60016,
+      59039,
+      59035,
+      66259,
+      50497,
+      65599,
+      95404,
+      95395,
+      48158,
+      57193,
+      47693,
+      69710,
+      47594,
+      69696,
+      69599,
+      69692,
+      69686,
+      41168,
+      64723,
+      53778,
+      69685,
+      69681,
+      69720,
+      559,
+      69673,
+      69682,
+      38439,
+      69672,
+      64434,
+      69653,
+      69651,
+      69554,
+      69503,
+      69619,
+      69716,
+      69695,
+      50381,
+      631,
+      66862,
+      64673,
+      69648,
+      84392,
+      69690,
+      69596,
+      69549,
+      69743,
+      58202,
+      76311,
+      69715,
+      69536,
+      69628,
+      69725,
+      66953,
+      53620,
+      50416,
+      49819,
+      69719,
+      69520,
+      69617,
+      69714,
+      69529,
+      69687,
+      1721,
+      69671,
+      70012,
+      172,
+      62349,
+      69694,
+      69711,
+      69697,
+      53379,
+      69609,
+      545,
+      69656,
+      69647,
+      53926,
+      679,
+      69732,
+      42766,
+      69736,
+      69624,
+      70221,
+      69680,
+      84207,
+      2883,
+      76314,
+      102184,
+      436,
+      237,
+      102743,
+      69991,
+      70053,
+      79767,
+      69618,
+      1361,
+      61968,
+      192,
+      69627,
+      62463,
+      70258,
+      62498,
+      62490,
+      63059,
+      63062,
+      46107,
+      47077,
+      94249,
+      95682,
+      2948,
+      69722,
+      64349,
+      47035,
+      76921,
+      306,
+      56622,
+      64429,
+      69528,
+      47439,
+      1940
+    ],
+    "build": 183433,
+    "refs": [
+      "This list is derived by list of cards in subset 12616."
+    ]
+  },
+  {
+    "id": 19,
+    "mockupName": "DERIVED Twist",
+    "sectionName": "Twist ban list",
+    "description": "These cards cannot be put into deck, cannot appear in card buckets and cannot be generated randomly in [[Twist]] games.",
+    "gameMode": 1,
+    "dbfIds": [
+      60153,
+      63057,
+      85046
+    ],
+    "build": 183433,
+    "refs": [
+      "This list is derived by list of cards with tag <code>3108=1</code>."
+    ]
+  },
+  {
+    "id": 20,
+    "mockupName": "Duels buckets only",
+    "sectionName": "Duels buckets ban list",
+    "description": "These cards cannot appear in [[Duels]]' card buckets due to specific reasons.",
+    "gameMode": 1,
+    "dbfIds": [
+      56385,
+      56530,
+      57721,
+      75881
+    ],
+    "build": 183433,
+    "refs": [
+      "[[Patch 24.4.0.150659]] for Sire Denathrius",
+      "[[Patch 27.0.0.181554]] for [[Ashes of Outland]] cards"
+    ]
+  },
+  {
+    "id": 21,
+    "mockupName": "Duels generation",
+    "sectionName": "Duels generation",
+    "description": "These cards cannot be generated randomly in [[Duels]] only due to specific reasons.",
+    "gameMode": 1,
+    "dbfIds": [
+      56385,
+      56530,
+      57721
+    ],
+    "build": 183433,
+    "refs": [
+      "[[Patch 27.0.0.181554]] for [[Ashes of Outland]] cards"
+    ]
+  },
+  {
+    "id": 22,
+    "mockupName": "BG QUEST Dust for Prints",
+    "sectionName": "Heroes banned from Dust for Prints",
+    "description": "These heroes will never be offered [[Battlegrounds/Dust for Prints]] quest.",
+    "gameMode": 3,
+    "dbfIds": [
+      71458
+    ],
+    "build": 183433,
+    "refs": [
+      "https://twitter.com/LoewenMitchell/status/1678497424246026242"
+    ]
+  },
+  {
+    "id": 23,
+    "mockupName": "BG QUEST Assemble a Lineup",
+    "sectionName": "Heroes banned from Assemble a Lineup",
+    "description": "These heroes will never be offered [[Battlegrounds/Assemble a Lineup]] quest.",
+    "gameMode": 3,
+    "dbfIds": [
+      79719
+    ],
+    "build": 183433,
+    "refs": [
+      "https://twitter.com/LoewenMitchell/status/1678497424246026242"
+    ]
+  },
+  {
+    "id": 24,
+    "mockupName": "BG QUEST Find the Murder Weapon",
+    "sectionName": "Heroes banned from Find the Murder Weapon",
+    "description": "These heroes will never be offered [[Battlegrounds/Find the Murder Weapon]] quest.",
+    "gameMode": 3,
+    "dbfIds": [
+      60369
+    ],
+    "build": 183433,
+    "refs": [
+      "https://twitter.com/LoewenMitchell/status/1678497424246026242"
+    ]
+  },
+  {
+    "id": 25,
+    "mockupName": "BG QUEST Pressure the Authorities",
+    "sectionName": "Heroes banned from Pressure the Authorities",
+    "description": "These heroes will never be offered [[Battlegrounds/Pressure the Authorities]] quest.",
+    "gameMode": 3,
+    "dbfIds": [
+      60369
+    ],
+    "build": 183433,
+    "refs": [
+      "https://twitter.com/LoewenMitchell/status/1678497424246026242"
+    ]
+  },
+  {
+    "id": 26,
+    "mockupName": "BG REWARD Ritual Dagger",
+    "sectionName": "Heroes banned from Ritual Dagger",
+    "description": "These heroes will never be offered [[Battlegrounds/Ritual Dagger]] reward.",
+    "gameMode": 3,
+    "dbfIds": [
+      79719
+    ],
+    "build": 183433,
+    "refs": [
+      "https://twitter.com/LoewenMitchell/status/1678497424246026242"
+    ]
+  },
+  {
+    "id": 27,
+    "mockupName": "BG REWARD Anima Bribe",
+    "sectionName": "Heroes banned from Anima Bribe",
+    "description": "These heroes will never be offered [[Battlegrounds/Anima Bribe]] reward.",
+    "gameMode": 3,
+    "dbfIds": [
+      57891,
+      60366,
+      101130
+    ],
+    "build": 183433,
+    "refs": [
+      "https://twitter.com/LoewenMitchell/status/1678497424246026242"
+    ]
+  },
+  {
+    "id": 28,
+    "mockupName": "BG REWARD Cooked Book",
+    "sectionName": "Heroes banned from Cooked Book",
+    "description": "These heroes will never be offered [[Battlegrounds/Cooked Book]] reward.",
+    "gameMode": 3,
+    "dbfIds": [
+      57891,
+      60366,
+      101130
+    ],
+    "build": 183433,
+    "refs": [
+      "https://twitter.com/LoewenMitchell/status/1678497424246026242"
+    ]
+  },
+  {
+    "id": 29,
+    "mockupName": "BG REWARD Secret Sinstone",
+    "sectionName": "Heroes banned from Secret Sinstone",
+    "description": "These heroes will never be offered [[Battlegrounds/Secret Sinstone]] reward.",
+    "gameMode": 3,
+    "dbfIds": [
+      101130,
+      103500,
+      57633,
+      57634,
+      57635,
+      57891,
+      57892,
+      57924,
+      57929,
+      57944,
+      57946,
+      57947,
+      58021,
+      58024,
+      58027,
+      58044,
+      58435,
+      58534,
+      58535,
+      59203,
+      59397,
+      59805,
+      59806,
+      59807,
+      59814,
+      59831,
+      60211,
+      60212,
+      60214,
+      60362,
+      60366,
+      60367,
+      60369,
+      60370,
+      60372,
+      61489,
+      61490,
+      61910,
+      61912,
+      61914,
+      62242,
+      62266,
+      62268,
+      63319,
+      63601,
+      63604,
+      64400,
+      64403,
+      64475,
+      66196,
+      66483,
+      67553,
+      68129,
+      70838,
+      70956,
+      71454,
+      71458,
+      71463,
+      71908,
+      71916,
+      73940,
+      74646,
+      75702,
+      76521,
+      77987,
+      79615,
+      79719,
+      80239,
+      80247,
+      80832,
+      81569,
+      82110,
+      84867,
+      86013,
+      86291,
+      89293,
+      92960,
+      96870,
+      97186,
+      97813,
+      98726,
+      99033
+    ],
+    "build": 183433,
+    "refs": [
+      "https://twitter.com/LoewenMitchell/status/1678497424246026242"
+    ]
+  },
+  {
+    "id": 30,
+    "mockupName": "BG REWARD Partner in Crime",
+    "sectionName": "Heroes banned from Partner in Crime",
+    "description": "These heroes will never be offered [[Battlegrounds/Partner in Crime]] reward.",
+    "gameMode": 3,
+    "dbfIds": [
+      71454,
+      101130,
+      103500,
+      99033
+    ],
+    "build": 183433,
+    "refs": [
+      "https://twitter.com/LoewenMitchell/status/1678497424246026242"
+    ]
+  },
+  {
+    "id": 31,
+    "mockupName": "BG REWARD Invigorating Conch",
+    "sectionName": "Heroes banned from Invigorating Conch",
+    "description": "These heroes will never be offered [[Battlegrounds/Invigorating Conch]] reward.",
+    "gameMode": 3,
+    "dbfIds": [
+      57891,
+      60366,
+      101130
+    ],
+    "build": 183433,
+    "refs": [
+      "https://twitter.com/LoewenMitchell/status/1678497424246026242"
+    ]
+  },
+  {
+    "id": 32,
+    "mockupName": "BG REWARD Bloodsoaked Tome",
+    "sectionName": "Heroes banned from Bloodsoaked Tome",
+    "description": "These heroes will never be offered [[Battlegrounds/Bloodsoaked Tome]] reward.",
+    "gameMode": 3,
+    "dbfIds": [
+      57891,
+      60366,
+      101130
+    ],
+    "build": 183433,
+    "refs": [
+      "https://twitter.com/LoewenMitchell/status/1678497424246026242"
+    ]
+  },
+  {
+    "id": 33,
+    "mockupName": "BG REWARD Snicker Snacks",
+    "sectionName": "Heroes banned from Snicker Snacks",
+    "description": "These heroes will never be offered [[Battlegrounds/Snicker Snacks]] reward.",
+    "gameMode": 3,
+    "dbfIds": [
+      101345
+    ],
+    "build": 183433,
+    "refs": [
+      "https://us.forums.blizzard.com/en/hearthstone/t/2701-patch-notes/110763"
     ]
   }
 ]

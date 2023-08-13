@@ -7,7 +7,7 @@ Pools of cards for generation
 |sectionName|String|Official pool name, displayed on Wiki articles
 |description|Wikistring|Pool description, displayed on Wiki articles
 |generatorDbfIds|Array of Integer|List of dbfIds of cards that use this pool to do something (usually generate cards)
-|gameMode|Integer|0: Invalid, 1: Constructed / Traditional, 2: Arena, 3: Battlegrounds, 4: Duels, 5: Mercenaries
+|gameMode|Integer|0: Invalid, 1: Constructed / Traditional, 3: Battlegrounds, 5: Mercenaries
 |ignoresFilters|Integer|1 if this pool only uses additionalPoolDbfIds and option keys (anything after isForGenerating), 0 otherwise
 |costMore|Integer|Filters cards that cost VALUE or more. -1 if it has no such condition
 |costLess|Integer|Filters cards that cost VALUE or less. -1 if it has no such condition
@@ -21,6 +21,7 @@ Pools of cards for generation
 |schoolId|Integer|Filters cards with spell school id VALUE. 0 if it has no such condition
 |rarityId|Integer|Filters cards with rarity id VALUE. 0 if it has no such condition
 |bg_isGolden|Integer|1 if it only generates golden cards in Battlegrounds, 0 otherwise
+|bg_lobbyTagId|Integer|Filters cards that have tag id VALUE or have none of the lobby tags. -1 if it has no such conndition.
 |keywordTagId|Integer|Filters cards that have tag id VALUE considered keywords. 0 if it has no such condition
 |tagId|Integer|Filters cards that have tag id VALUE. 0 if it has no such condition
 |tagValue|Integer|Filters cards that have tag id VALUE, with its value equal to a certain amount. -1 if there is no need to specify the value for tagId
